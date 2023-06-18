@@ -19,7 +19,7 @@ cli = ["structopt", "tracing-subscriber"]
 [dependencies]
 anyhow = "1.0.65"
 flate2 = "1.0"
-indexmap = "~1.8"
+indexmap = "~1.9"
 leb128 = "0.2.4"
 md5 = "0.7"
 nom = "7.0.0"
